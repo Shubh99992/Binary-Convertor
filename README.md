@@ -1,4 +1,4 @@
- ![my badge](https://img.shields.io/badge/Made%20with-Html,css%20and%20Js-blue?style=for-the-badge&logo=)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Shubh99992/Binary-Convertor?style=for-the-badge)
+ ![my badge](https://img.shields.io/badge/Made%20with-Html,css%20and%20Js-blue?style=for-the-badge&logo=)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Shubh99992/Binary-Convertor?style=for-the-badge) 
 # Hi Everyone!
 Today we're going to create a new web application with JavaScript
 # Binary-Convertor
